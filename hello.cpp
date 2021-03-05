@@ -1,12 +1,12 @@
 #include <stdio.h>
 
 
-void function2()
+void add(int a, int b)
 {
-	error
+	return a  + b;
 }
 
 int main()
 {
-	
+	printf("Hello World\n");
 }
